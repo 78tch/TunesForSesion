@@ -1,20 +1,20 @@
 # TunesForSession
 
-|No.|Tune|キー|レッスン動画|iRealProスタイル|
-|---|---|---|---|---|
-|1|①Just The Two Of Us|Fm|ジャムセッション||
-|2|②Feel Like Makin' Love|C|ジャムセッション||
-|3|③Isn't She Lovely|E|宮ジャム||
-|4|④Cissy Strut|Cm|ジャムセッション・宮ジャム||
-|5|⑤The Chicken|B♭|ジャムセッション・宮ジャム||
-|6|⑥Sunny|Am|||
-|7|⑦Chameleon|B♭m|宮ジャム||
-|8|Cantaloupe Island|Fm||
-|9|Watermelon Man|F|宮ジャム||
-|10|Strasbourg/St.Denis|B♭|||
-|11|Mercy,Mercy,Mercy|B♭|||
-|12|Superstition|E♭m|||
-|13|What's Going On|E|||
+|No.|Tune|キー|レッスン動画|バッキング|iRealProスタイル|
+|---|---|---|---|---|---|
+|1|①Just The Two Of Us|Fm|ジャムセッション|実践形式mp3||
+|2|②Feel Like Makin' Love|C|ジャムセッション|実践形式mp3||
+|3|③Isn't She Lovely|E|宮ジャム|||
+|4|④Cissy Strut|Cm|ジャムセッション・宮ジャム|実践形式mp3||
+|5|⑤The Chicken|B♭|ジャムセッション・宮ジャム|実践形式mp3||
+|6|⑥Sunny|Am||||
+|7|⑦Chameleon|B♭m|宮ジャム|||
+|8|Cantaloupe Island|Fm|||
+|9|Watermelon Man|F|宮ジャム|||
+|10|Strasbourg/St.Denis|B♭||||
+|11|Mercy,Mercy,Mercy|B♭||||
+|12|Superstition|E♭m||||
+|13|What's Going On|E||||
   
 ## Just The Two Of Us
 ★：ジャムセッション・レッスンあり  
