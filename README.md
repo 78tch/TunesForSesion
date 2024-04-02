@@ -5,11 +5,11 @@
 |1|①Just The Two Of Us|Fm|ジャムセッション|実践形式mp3||
 |2|②Feel Like Makin' Love|C|ジャムセッション|実践形式mp3||
 |3|③Isn't She Lovely|E|宮ジャム|||
-|4|④Cissy Strut  ※●4C●|Cm|ジャムセッション・宮ジャム|実践形式mp3||
-|5|⑤The Chicken  ※●4C●|B♭|ジャムセッション・宮ジャム|実践形式mp3||
+|4|④Cissy Strut<br>  ※●4C●|Cm|ジャムセッション・宮ジャム|実践形式mp3||
+|5|⑤The Chicken<br>  ※●4C●|B♭|ジャムセッション・宮ジャム|実践形式mp3||
 |6|⑥Sunny|Am||||
-|7|⑦Chameleon  ※●4C●|B♭m|宮ジャム|||
-|8|Cantaloupe Island  ※●4C●|Fm|||
+|7|⑦Chameleon<br>  ※●4C●|B♭m|宮ジャム|||
+|8|Cantaloupe Island<br>  ※●4C●|Fm|||
 |9|Watermelon Man|F|宮ジャム|||
 |10|Strasbourg/St.Denis|B♭||||
 |11|Mercy,Mercy,Mercy|B♭||||
