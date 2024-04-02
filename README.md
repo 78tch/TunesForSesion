@@ -1,12 +1,12 @@
 # TunesForSession
 
-|No.|Tune|キー|スタイル||
+|No.|Tune|キー|レッスン動画|iRealProスタイル|
 |---|---|---|---|---|
-|1|①Just The Two Of Us|Fm|||
-|2|②Feel Like Makin' Love|C|||
+|1|①Just The Two Of Us|Fm|ジャムセッション||
+|2|②Feel Like Makin' Love|C|ジャムセッション||
 |3|③Isn't She Lovely|E|||
-|4|④Cissy Strut|Cm|||
-|5|⑤The Chicken|B♭|||
+|4|④Cissy Strut|Cm|ジャムセッション||
+|5|⑤The Chicken|B♭|ジャムセッション||
 |6|⑥Sunny|Am|||
 |7|⑦Chameleon|B♭m|||
 |8|Cantaloupe Island|Fm||
@@ -18,44 +18,44 @@
   
 ## Just The Two Of Us
 ★：ジャムセッション・レッスンあり  
-●：【デモ】m4a、【デモ】mp4、実践形式mp3、練習用mp3、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜  
   
 ## Feel Like Makin' Love
 ★：ジャムセッション・レッスンあり  
-●：【デモ】m4a、【デモ】mp4、実践形式mp3、練習用mp3、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜  
   
 ## Isn't She Lovely
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## Cissy Strut
 ★：ジャムセッション・レッスンあり  
-●：【デモ】m4a、【デモ】mp4、実践形式mp3、練習用mp3、楽譜（The Chicken のフォルダにあり）  
+●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜（The Chicken のフォルダにあり）  
   
 ## The Chicken
 ★：ジャムセッション・レッスンあり  
-●：【デモ】m4a、【デモ】mp4、実践形式mp3、練習用mp3、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜  
   
 ## Sunny
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## Chameleon
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## Cantaloupe Island
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## Watermelon Man
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## Strasbourg/St.Denis
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## Mercy,Mercy,Mercy
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## Superstition
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
 ## What's Going On
-●：【デモ】m4a、【デモ】mp4、楽譜  
+●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
   
