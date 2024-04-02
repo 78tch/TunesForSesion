@@ -5,8 +5,8 @@
 |1|①Just The Two Of Us|Fm|ジャムセッション||
 |2|②Feel Like Makin' Love|C|ジャムセッション||
 |3|③Isn't She Lovely|E|宮ジャム||
-|4|④Cissy Strut|Cm|ジャムセッション||
-|5|⑤The Chicken|B♭|ジャムセッション||
+|4|④Cissy Strut|Cm|ジャムセッション・宮ジャム||
+|5|⑤The Chicken|B♭|ジャムセッション・宮ジャム||
 |6|⑥Sunny|Am|||
 |7|⑦Chameleon|B♭m|宮ジャム||
 |8|Cantaloupe Island|Fm||
@@ -19,7 +19,6 @@
 ## Just The Two Of Us
 ★：ジャムセッション・レッスンあり  
 ●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜  
-
   
 ## Feel Like Makin' Love
 ★：ジャムセッション・レッスンあり  
@@ -33,10 +32,14 @@ https://www.youtube.com/watch?v=TLmx_k2T05U
 ## Cissy Strut
 ★：ジャムセッション・レッスンあり  
 ●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜（The Chicken のフォルダにあり）  
+◎：宮ジャム  
+https://www.youtube.com/watch?v=hlacI64bzyk
   
 ## The Chicken
 ★：ジャムセッション・レッスンあり  
 ●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜  
+◎：宮ジャム  
+https://www.youtube.com/watch?v=Em12kerNhPA
   
 ## Sunny
 ●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
