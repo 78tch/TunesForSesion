@@ -53,6 +53,12 @@ https://www.youtube.com/watch?v=1mrXRCRcMyQ
   
 ## Cantaloupe Island
 ●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
+|No|1|2|3|4|5|6|7|8|
+|--|--|--|--|--|--|--|--|--|
+|1|Fm7|-|-|-|Fm7|-|-|-|
+|2|Fm7|-|-|-|Db7|-|-|-|
+|3|Dm7|-|-|-|Fm7|-|-|-|
+|solo|Dm7|-|-|-|||||
   
 ## Watermelon Man
 ●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
