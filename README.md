@@ -37,6 +37,13 @@ https://www.youtube.com/watch?v=TLmx_k2T05U
 ◎：宮ジャム  
 https://www.youtube.com/watch?v=hlacI64bzyk
   
+|No|1|2|3|4|5|6|7|8|
+|--|--|--|--|--|--|--|--|--|
+|Intro|C7|-|-|-|||||
+|A|C7|C7BbF/A|-|-|C7|C7Bb F/A|-|-|
+|B|C7|-|-|-|C7|-|-|-|
+||||||||||
+  
 ## The Chicken
 ★：ジャムセッション・レッスンあり  
 ●：【デモ音声】m4a、【デモ動画】mp4、実践形式mp3、練習用mp3、楽譜  
@@ -50,6 +57,14 @@ https://www.youtube.com/watch?v=Em12kerNhPA
 ●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
 ◎：宮ジャム  
 https://www.youtube.com/watch?v=1mrXRCRcMyQ
+  
+|No|1|2|3|4|5|6|7|8|
+|--|--|--|--|--|--|--|--|--|
+|Intro|Bbm7|Eb9|Bbm7|Eb9|-|-|-|-|
+|A|Bbm7|Eb9|Bbm7|Eb9|Bbm7|Eb9|Bbm7|Eb9|
+|B1|Bbm7|Eb9|Bbm7|Eb9|Bbm7|Eb9|Bbm7|Eb9|
+|B2|Bbm7|Eb9|Bbm7|Eb9|N.C.|Bbm7|-|-|
+||||||||||
   
 ## Cantaloupe Island
 ●：【デモ音声】m4a、【デモ動画】mp4、楽譜  
